@@ -1,0 +1,33 @@
+{
+  "name": "pathnova-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.88.7",
+    "@react-three/fiber": "^8.16.6",
+    "@studio-freight/lenis": "^1.0.42",
+    "axios": "^1.13.6",
+    "framer-motion": "^12.35.1",
+    "gsap": "^3.14.2",
+    "lucide-react": "^0.577.0",
+    "next": "14.2.35",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.6.0",
+    "three": "^0.183.2"
+  },
+  "devDependencies": {
+    "@types/node": "25.3.5",
+    "@types/react": "19.2.14",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.35",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
